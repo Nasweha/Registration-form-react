@@ -1,0 +1,29 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  background-color: black;
+}
+.register{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(12, 33, 52);
+
+}
+.reg{
+  background-color: white;
+  width: 500px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: rgb(241, 239, 239) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+h1{
+  text-align: center;
+  font-size: xx-large;
+  color:#1976d2;
+}
+form{
+ 
+}
